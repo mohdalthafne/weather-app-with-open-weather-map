@@ -1,7 +1,7 @@
 <div align="center">
 <br />
 <a href="https://youtu.be/YTtmcpCr2Zg" target="_blank">
-<img src="" alt="Thumbnail" />
+<img src="https://raw.githubusercontent.com/mohdalthafne/weather-app-with-open-weather-map/refs/heads/main/thumbnail.png" alt="Thumbnail" />
 </a>
 <br />
 <div>
