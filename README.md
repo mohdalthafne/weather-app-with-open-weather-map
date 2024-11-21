@@ -11,6 +11,8 @@
 Build this weather app setp by step with detailed video on <a href="" target="_blank">Mr. Web X.</a>
 </div>
 
+</div>
+
 ## Introduction
 
 To Build This Project You need this Following Softwares
@@ -47,4 +49,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-</div>
