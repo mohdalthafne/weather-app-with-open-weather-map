@@ -16,7 +16,7 @@ const App = () => {
     "02d" : WeatherIcons.FewCloudsDayIcon,
     "02n" : WeatherIcons.FewCloudsNightIcon,
     "03d" : WeatherIcons.ScatteredCloudsIcon,
-    "03d" : WeatherIcons.ScatteredCloudsIcon,
+    "03n" : WeatherIcons.ScatteredCloudsIcon,
     "04d" : WeatherIcons.BrokenCloudsIcon,
     "04n" : WeatherIcons.BrokenCloudsIcon,
     "09d" : WeatherIcons.ShowerRainIcon,
