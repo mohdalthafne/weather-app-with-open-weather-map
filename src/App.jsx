@@ -62,7 +62,6 @@ const App = () => {
     try {
       const response  = await fetch(API_URL)
       const data = await response.json()
-      console.log(data)
       const icons = allIcons[data.weather[0].icon] || WeatherIcons.NoResultIcon
       setWeatherData({
         city: data.name,

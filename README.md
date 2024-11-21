@@ -1,6 +1,8 @@
 <div align="center">
 <br />
-<a href="" target="_blank"></a>
+<a href="https://youtu.be/YTtmcpCr2Zg" target="_blank">
+<img src="" alt="Thumbnail" />
+</a>
 <br />
 <div>
 <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
@@ -8,7 +10,7 @@
 </div>
 <h3>Weather App</h3>
 <div align="center">
-Build this weather app setp by step with detailed video on <a href="" target="_blank">Mr. Web X.</a>
+Build this weather app setp by step with detailed video on <a href="https://www.youtube.com/@mr_web_x" target="_blank">Mr. Web X.</a>
 </div>
 
 </div>
@@ -40,7 +42,7 @@ Create a new file named `.env` in the root of your project and add the follwing 
 ```env
 VITE_API_KEY = 
 ```
-Replace The Placeholder With <a href="" target="_blank">Open Weather Map API</a>
+Replace The Placeholder With <a href="https://home.openweathermap.org/api_keys" target="_blank">Open Weather Map API</a>
 
 **Running Project**
 
